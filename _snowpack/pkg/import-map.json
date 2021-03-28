@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-redux": "./react-redux.js",
+    "redux": "./redux.js"
+  }
+}

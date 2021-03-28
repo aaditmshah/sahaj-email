@@ -1,0 +1,21 @@
+{
+  "name": "Sahaj Email",
+  "short_name": "Sahaj Email",
+  "icons": [
+    {
+      "src": "https://aaditmshah.github.io/sahaj-email/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://aaditmshah.github.io/sahaj-email/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "scope": "https://aaditmshah.github.io/sahaj-email/",
+  "start_url": "https://aaditmshah.github.io/sahaj-email/",
+  "display": "standalone"
+}
